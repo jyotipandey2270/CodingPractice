@@ -33,5 +33,14 @@ public class AlertDismissAction extends UtilityOfCode {
 		
 	}
 	
+	public void testing()
+	{
+		
+		System.out.println("Testing1");
+		System.out.println("Testing2");
+		System.out.println("Testing3");
+		System.out.println("Testing4");
+		
+	}
 
 }
