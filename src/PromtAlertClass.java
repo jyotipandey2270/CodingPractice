@@ -28,6 +28,11 @@ WebDriver driver;
 		System.out.println(driver.switchTo().alert().getText());
 		driver.switchTo().alert().sendKeys("Jyoti");
 		driver.switchTo().alert().accept();
+		System.out.println("prompt alert1");
+		System.out.println("prompt alert2");
+		System.out.println("prompt alert3");
+		
+		
 	}
 	
 	
